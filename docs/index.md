@@ -1,3 +1,7 @@
+---
+comments: true
+---
+
 # Welcome to Phylosophy-Notes
 
 这是一个哲学笔记wiki.
@@ -19,3 +23,22 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
     docs/
         index.md  # The documentation homepage.
         ...       # Other markdown pages, images and other files.
+
+
+## a
+
+
+
+
+
+
+## b
+
+
+
+
+
+
+
+
+## c
